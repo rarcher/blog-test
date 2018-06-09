@@ -3,9 +3,6 @@ description: A developer of mostly Java.
 avatar: https://github.com/rarcher.png
 github_username: rarcher
 
-baseurl: ""
 theme: minima
-
 markdown: kramdown
-gems:
-  - minima
+baseurl: ""
