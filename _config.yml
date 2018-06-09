@@ -1,0 +1,8 @@
+name: Ryan Archer
+description: A developer of mostly Java.
+avatar: https://github.com/rarcher.png
+
+theme: minima
+
+gems:
+  - minima
